@@ -1,0 +1,14 @@
+C:\Users\vakel\OneDrive\Masaüstü\StealthGame\StealthGame\bin\Debug\net8.0\StealthGame.exe
+C:\Users\vakel\OneDrive\Masaüstü\StealthGame\StealthGame\bin\Debug\net8.0\StealthGame.deps.json
+C:\Users\vakel\OneDrive\Masaüstü\StealthGame\StealthGame\bin\Debug\net8.0\StealthGame.runtimeconfig.json
+C:\Users\vakel\OneDrive\Masaüstü\StealthGame\StealthGame\bin\Debug\net8.0\StealthGame.dll
+C:\Users\vakel\OneDrive\Masaüstü\StealthGame\StealthGame\bin\Debug\net8.0\StealthGame.pdb
+C:\Users\vakel\OneDrive\Masaüstü\StealthGame\StealthGame\obj\Debug\net8.0\StealthGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vakel\OneDrive\Masaüstü\StealthGame\StealthGame\obj\Debug\net8.0\StealthGame.AssemblyInfoInputs.cache
+C:\Users\vakel\OneDrive\Masaüstü\StealthGame\StealthGame\obj\Debug\net8.0\StealthGame.AssemblyInfo.cs
+C:\Users\vakel\OneDrive\Masaüstü\StealthGame\StealthGame\obj\Debug\net8.0\StealthGame.csproj.CoreCompileInputs.cache
+C:\Users\vakel\OneDrive\Masaüstü\StealthGame\StealthGame\obj\Debug\net8.0\StealthGame.dll
+C:\Users\vakel\OneDrive\Masaüstü\StealthGame\StealthGame\obj\Debug\net8.0\refint\StealthGame.dll
+C:\Users\vakel\OneDrive\Masaüstü\StealthGame\StealthGame\obj\Debug\net8.0\StealthGame.pdb
+C:\Users\vakel\OneDrive\Masaüstü\StealthGame\StealthGame\obj\Debug\net8.0\StealthGame.genruntimeconfig.cache
+C:\Users\vakel\OneDrive\Masaüstü\StealthGame\StealthGame\obj\Debug\net8.0\ref\StealthGame.dll
